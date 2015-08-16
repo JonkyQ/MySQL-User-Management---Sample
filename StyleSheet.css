@@ -1,0 +1,20 @@
+body {
+}
+
+#title {
+    font-size: 28px;
+    margin: 2px;
+    text-decoration: underline;
+}
+
+#login,#register { 
+    margin: 2px;
+}
+
+#username,#password {
+    margin: 2px;
+}
+
+a {
+    text-decoration: none;
+}
